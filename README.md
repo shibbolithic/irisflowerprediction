@@ -6,7 +6,9 @@ This repository contains a machine-learning model for detecting Iris flower spec
 
 <br>Features</br>
 Model Type: Support Vector Machine (SVM) Classifier with radial basis function (RBF) kernel.
-Accuracy: Achieves high accuracy of 1.
+
+Accuracy: Achieves accuracy of 100 percent.
+
 Exploratory Data Analysis (EDA): Includes visualizations and analysis of the Iris dataset to gain insights into the distribution and relationships between different features.
 
 <br>Files</br>
