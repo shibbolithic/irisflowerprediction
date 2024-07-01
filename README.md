@@ -11,9 +11,6 @@ Accuracy: Achieves accuracy of 100 percent.
 
 Exploratory Data Analysis (EDA): Includes visualizations and analysis of the Iris dataset to gain insights into the distribution and relationships between different features.
 
-<br>Files</br>
-Iris_Flower_Detection.ipynb: Jupyter notebook containing the model implementation, training, and EDA.
-requirements.txt: List of required Python libraries.
 
 <br>Dataset</br>
 The Iris dataset is a classic dataset in the field of machine learning, containing measurements of sepal length, sepal width, petal length, and petal width for 150 Iris flowers, with 50 flowers from each of the three species.
